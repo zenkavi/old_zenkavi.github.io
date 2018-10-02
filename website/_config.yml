@@ -13,7 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+minimal_mistakes_skin: "air"
+locale: "en-US"
 title: Zeynep Enkavi
+title_separator: "-"
 email: zenkavi@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Neuroeconomics. Self-regulation. Meta-analysis.
@@ -26,7 +29,11 @@ github_username:  zenkavi
 markdown: kramdown
 theme: minimal-mistakes-jekyll
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
   - jekyll-feed
+  - jemoji
 
 # Custom front matter defaults
 defaults:
@@ -35,21 +42,77 @@ defaults:
       path: "" #empty string applies these defaults to all files on the site
       type: "posts"
     values:
-        layout: single
-        title: "Default Blog Post Title"
-  -
-    scope:
-      path: "" #empty string applies these defaults to all files on the site
-      type: "pages"
-    values:
-        layout: single
-        title: "Default Page Title"
+      layout: posts
+      title: "Default Title"
+      author_profile: true
 
 # Minimal mistakes settings: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
-minimal_mistakes_skin: "contrast"
-locale: "en-US"
 name: "Zeynep Enkavi"
 repository: "zenkavi/zenkavi.github.io"
+
+author:
+  name: Zeynep Enkavi
+  avatar: "assets/images/bio.jpeg"
+  bio: "Stanford Psychology PhD Candidate interested in neuroeconomics, self-regulation and meta-analysis."
+  location: "San Francisco, CA"
+  links:
+    - label: ""
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:zenkavi@stanford.edu
+    - label: ""
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/zeynepenkavi"
+    - label: ""
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/zenkavi"
+    - label: ""
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zenkavi"
+    - label: ""
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/zenkavi"
+
+footer:
+  links:
+    - label: ""
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/zeynepenkavi"
+    - label: ""
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/zenkavi"
+    - label: ""
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zenkavi"
+    - label: ""
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/zenkavi"
+
+include:
+  - .htaccess
+  - _pages
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
