@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Zeynep's Blog
+title: Zeynep Enkavi
 email: zenkavi@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Neuroeconomics. Self-regulation. Meta-analysis.
@@ -24,7 +24,7 @@ github_username:  zenkavi
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
@@ -35,8 +35,14 @@ defaults:
       path: "" #empty string applies these defaults to all files on the site
       type: "posts"
     values:
-        layout: "post"
+        layout: posts
         title: "Default Title"
+
+# Minimal mistakes settings: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
+minimal_mistakes_skin: "contrast"
+locale: "en-US"
+name: "Zeynep Enkavi"
+repository: "zenkavi/zenkavi.github.io"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
