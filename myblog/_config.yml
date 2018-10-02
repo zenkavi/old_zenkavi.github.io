@@ -28,6 +28,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Custom front matter defaults
+defaults:
+  -
+    scope:
+      path: "" #empty string applies these defaults to all files on the site
+      type: "posts"
+    values:
+        layout: "post"
+        title: "Default Title"
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
