@@ -35,21 +35,52 @@ defaults:
       path: "" #empty string applies these defaults to all files on the site
       type: "posts"
     values:
-        layout: single
-        title: "Default Blog Post Title"
-  -
-    scope:
-      path: "" #empty string applies these defaults to all files on the site
-      type: "pages"
-    values:
-        layout: single
-        title: "Default Page Title"
+        layout: posts
+        title: "Default Title"
 
 # Minimal mistakes settings: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 minimal_mistakes_skin: "contrast"
 locale: "en-US"
 name: "Zeynep Enkavi"
 repository: "zenkavi/zenkavi.github.io"
+
+author:
+  name: Zeynep Enkavi
+  avatar: "/assets/images/bio.jpg"
+  bio: "Stanford Psychology PhD Candidate interested in neuroeconomics, self-regulation and meta-analysis."
+  location: "San Francisco, CA"
+  email: zenkavi@stanford.edu
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:zenkavi@stanford.edu
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/zeynepenkavi"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/zenkavi"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zenkavi"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/zenkavi"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/zeynepenkavi"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      url: "https://facebook.com/zenkavi"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/zenkavi"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/zenkavi"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
