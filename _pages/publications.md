@@ -16,6 +16,10 @@ Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2
 
 ## Preprints
 
+**Enkavi, A. Z.**, Eisenberg, I., Bissett, P., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. (2018). A large-scale analysis of test-retest reliabilities of self-regulation measures.
+
+Eisenberg, I., Bissett, P., **Enkavi, A. Z.**, Li, J., MacKinnon, D., Marsch, L., & Poldrack, R. (2018). Uncovering mental structure through data-driven ontology discovery.
+
 ## Presentations
 
 ### Talks

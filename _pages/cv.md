@@ -136,7 +136,7 @@ Kazinka, R., **Enkavi, A. Z.**, Vo, K., Kable, J. W. Individual differences in t
 
 `2013`
 ￼**Enkavi, A. Z.**, Gao, J., Li, Y., Zaval, L., Johnson E. J., Weber, E. U. Neurons die, not knowledge: Domain
-￼knowledge compensates for declining cognitive ability in financial decision-making. 2013. Society of Judgment and
+￼knowledge compensates for declining cognitive ability in financial decision-making. 2013. Society of Judgment and Decision Making Annual Meeting, Toronto, Canada.
 ￼
 ## Professional Memberships
 
