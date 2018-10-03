@@ -1,9 +1,12 @@
 ---
 ---
-
 @import "{{ site.theme }}";
-
 .toc{
   overflow: auto;
   position: fixed
+}
+
+li {
+  white-space: nowrap;
+  float:left;
 }
