@@ -27,7 +27,7 @@ github_username:  zenkavi
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -127,7 +127,7 @@ whitelist:
   - jemoji
   - jekyll-remote-theme
 
-remote_theme: benbalter/retlab
+remote_theme: mmistakes/minimal_mistakes
 
 
 style: kjhealy
