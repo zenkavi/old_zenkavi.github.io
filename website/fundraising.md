@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Donate
-permalink: /donate/
+title: Fundraising
+permalink: /fundraising/
 ---
 
 Donate for AIDS LifeCycle

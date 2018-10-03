@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-minimal_mistakes_skin: "air"
+minimal_mistakes_skin: "mint"
 locale: "en-US"
 title: Zeynep Enkavi
 title_separator: "-"
@@ -42,7 +42,7 @@ defaults:
       path: "" #empty string applies these defaults to all files on the site
       type: "posts"
     values:
-      layout: posts
+      layout: single
       title: "Default Title"
       author_profile: true
 
@@ -60,6 +60,9 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:zenkavi@stanford.edu
     - label: ""
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=RbsrblkAAAAJ&hl=en&oi=ao"
+    - label: ""
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/zeynepenkavi"
     - label: ""
@@ -74,6 +77,9 @@ author:
 
 footer:
   links:
+    - label: ""
+      icon: "fab fa-fw fa-google"
+      url: "https://scholar.google.com/citations?user=RbsrblkAAAAJ&hl=en&oi=ao"
     - label: ""
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/zeynepenkavi"
