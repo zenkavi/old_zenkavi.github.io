@@ -2,6 +2,9 @@
 layout: single
 title:  "Publications"
 permalink: /publications/
+toc: true
+toc_label: " "
+toc_float: true
 ---
 
 ### Journal articles
