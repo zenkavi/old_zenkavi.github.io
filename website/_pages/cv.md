@@ -1,7 +1,8 @@
 ---
 layout: cv
-title: Zeynep Enkavi's CV
+title: ""
 permalink: /cv/
+author_profile: false
 ---
 # A. Zeynep Enkavi
 

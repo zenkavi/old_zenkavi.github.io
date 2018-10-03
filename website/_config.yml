@@ -20,7 +20,7 @@ title_separator: "-"
 email: zenkavi@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Neuroeconomics. Self-regulation. Meta-analysis.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "zenkavi.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zeynepenkavi
 github_username:  zenkavi
@@ -61,7 +61,6 @@ author:
   name: Zeynep Enkavi
   avatar: "assets/images/bio.jpeg"
   bio: "Stanford Psychology PhD Candidate interested in neuroeconomics, self-regulation and meta-analysis."
-  location: "San Francisco, CA"
   links:
     - label: ""
       icon: "fas fa-fw fa-envelope-square"
