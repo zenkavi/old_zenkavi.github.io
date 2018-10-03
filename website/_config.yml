@@ -45,6 +45,13 @@ defaults:
       layout: single
       title: "Default Title"
       author_profile: true
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
 
 # Minimal mistakes settings: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 name: "Zeynep Enkavi"
