@@ -4,7 +4,7 @@ title:  "Publications"
 permalink: /publications/
 toc: true
 toc_label: " "
-custom_css:
+custom_css: style
 ---
 
 ### Journal articles
