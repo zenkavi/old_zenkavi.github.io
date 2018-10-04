@@ -1,11 +1,8 @@
 ---
 ---
-@import "{{ site.theme }}";
-.toc {
-  overflow: auto;
-  position: fixed}
 
-li{
+@import "{{ site.theme }}";
+ul.author__urls.social-icons li{
   white-space: nowrap;
   float:left;
 }
