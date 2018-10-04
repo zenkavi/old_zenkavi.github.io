@@ -1,10 +1,10 @@
 ---
-layout: single
+layout: single_custom
 title:  "Publications"
 permalink: /publications/
 toc: true
 toc_label: " "
-#custom_css: main
+custom_css: main
 ---
 
 ### Journal articles
