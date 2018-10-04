@@ -36,6 +36,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 # Custom front matter defaults
 defaults:
@@ -127,6 +128,7 @@ whitelist:
   - jekyll-feed
   - jemoji
   - jekyll-remote-theme
+  - jekyll-include-cache
 
 style: kjhealy
 

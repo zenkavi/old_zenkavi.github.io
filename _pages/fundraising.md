@@ -2,6 +2,8 @@
 layout: single
 title: Fundraising
 permalink: /fundraising/
+toc: true
+toc_label: " "
 ---
 
 ## My Story
