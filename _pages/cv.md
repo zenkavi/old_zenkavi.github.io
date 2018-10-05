@@ -1,16 +1,18 @@
 ---
-layout: cv
+layout: single
 title: ""
 permalink: /cv/
-author_profile: false
 ---
+
+View as [PDF](https://zenkavi.github.io/_pages/AyseZeynepEnkavi_CV_Oct2018.pdf)
+
 # A. Zeynep Enkavi
 
 ### Research interests
 
 Neuroeconomics and decision neuroscience  
 Individual differences in and behavioral interventions on self-regulation  
-Tool building for reproducible science  
+Tool building for reproducible meta-analysis  
 
 ## Education
 
@@ -21,7 +23,7 @@ __Stanford University, Stanford, CA__
 - Advisor: Russell A. Poldrack
 
 `2012 - 2014`
-__Center for Decision Sciences, Columbia Graduate School of Business, New York, NY__
+__Columbia Graduate School of Business, New York, NY__
 
 - Advisor: Eric J. Johnson and Elke U. Weber
 
@@ -58,28 +60,20 @@ University of Pennsylvania
 
 ### Journal articles
 
-`2018`
 ￼Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J.
 ￼(2018). Applying novel technologies and methods to inform the ontology of self-regulation. Behaviour research and
 ￼therapy, 101, 46-57.  
 
-￼
-`2017`
 **Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). Evidence for
 ￼hippocampal dependence of value-based decisions. Scientific reports, 7(1), 17738.
-
 ￼
-`2016`
 Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment
 ￼factory: standardizing behavioral experiments. Frontiers in psychology, 7, 610.
 
-
-`2015`
 Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). Sound credit scores and financial decisions despite cognitive aging. Proceedings of the National Academy of Sciences, 112(1), 65-69.  
 
 ### Preprints
 
-`2018`
 **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A
 large scale analysis of test-retest reliabilities of self-regulation measures”  
 
@@ -102,29 +96,19 @@ Kazinka, R., **Enkavi, A. Z.**, Vo.K., Kable, J. “Not All Choosers: Individual
 
 ### Talks
 
-`2015`
-
 **Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., Johnson, E. J. (2015), “Preference consistency relies on hippocampal function: Evidence from mediotemporal lobe epilepsy”, Interdisciplinary Symposium on Decision Neuroscience, MIT
 
 ### Posters
 
-`2018`
-
 **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of cognitive task measures of self-regulation” 2018. Society for Neuroeconomics Annual Meeting, Philadelphia, Pennsylvania.  
-
-`2017`
 
 **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of test-retest reliabilities of self-regulation measures” 2017. Society of Judgment and Decision Making Annual Meeting, Vancouver, Canada.  
 
 **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of test-retest reliabilities of self-regulation measures” 2017. Society for Neuroeconomics Annual Meeting, Toronto, Canada.  
 
-`2015`
-
 **Enkavi, A. Z.**, McClure, S. M, “Beyond Delay Discounting: Intertemporal Choice Between Non-Unitary Rewards” 2015. Society of Judgment and Decision Making Annual Meeting, Chicago, Illinois.  
 
 **Enkavi, A. Z.**, McClure, S. M, “Beyond Delay Discounting: Intertemporal Choice Between Non-Unitary Rewards” 2015 Society for Neuroeconomics Annual Meeting, Miami, Florida.  
-
-`2014`
 
 ￼**Enkavi, A. Z.**, Gao, J., Li, Y., Johnson E. J., Weber, E. U. What Measures of Risk Attitude Predict Real World Risk
 ￼Taking? 2014. Society of Judgment and Decision Making Annual Meeting, Long Beach, California.  
@@ -134,7 +118,6 @@ Kazinka, R., **Enkavi, A. Z.**, Vo.K., Kable, J. “Not All Choosers: Individual
 Kazinka, R., **Enkavi, A. Z.**, Vo, K., Kable, J. W. Individual differences in the Asymmetric Dominance Effect. 2014.
 ￼Society for Neuroeconomics Annual Meeting, Miami, Florida.  
 
-`2013`
 ￼**Enkavi, A. Z.**, Gao, J., Li, Y., Zaval, L., Johnson E. J., Weber, E. U. Neurons die, not knowledge: Domain
 ￼knowledge compensates for declining cognitive ability in financial decision-making. 2013. Society of Judgment and Decision Making Annual Meeting, Toronto, Canada.
 ￼
@@ -154,14 +137,14 @@ OHBM Brainhack hackathon
 
 ## Teaching and Mentorship
 
-`2018`
+`2018`  
 Brain and Decision Making, Teaching Assistant, Spring 2018   
 Introduction to Statistical Methods, Winter 2018
 
-`2015-2017`
+`2015-2017`  
 Psych One Teaching Fellow, Fall 2015, Spring 2015, Fall 2017
 
-`2016`
+`2016`  
 Introduction to Learning and Memory, Spring 2016 Introduction to  
 Cognitive Neuroscience, Winter 2016
 
