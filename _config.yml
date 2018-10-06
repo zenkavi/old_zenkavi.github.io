@@ -75,14 +75,8 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/zeynepenkavi"
     - label: ""
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/zenkavi"
-    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zenkavi"
-    - label: ""
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/zenkavi"
 
 footer:
   links:
@@ -93,14 +87,8 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/zeynepenkavi"
     - label: ""
-      icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/zenkavi"
-    - label: ""
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zenkavi"
-    - label: ""
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/zenkavi"
 
 include:
   - .htaccess
