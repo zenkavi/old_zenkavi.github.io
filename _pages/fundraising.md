@@ -14,13 +14,13 @@ As I am finishing up one decade on this planet and starting a new one I decided 
 
 ## Completed events
 
-[Spartan Sprint](https://www.spartan.com/en/race/detail/3926/overview) (5 miles)
-[Spartan Super](https://www.spartan.com/en/race/detail/4236/overview) (8 miles)
-[San Francisco Half Marathon](http://www.thesfmarathon.com/) (twice)
-[Terrain Race](http://terrainrace.com/)
-[Spartan Beast](https://www.spartan.com/en/race/detail/3690/overview) (16 miles)
-[Tri Santa Cruz](http://www.finishlineproduction.com/events/triathlon/TriSantaCruz/TriSantaCruz.html) (1.5 km swim, 27 mile bike, 10k run)
-[Half Ironman in Santa Cruz](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-cruz.aspx) (1.2 mile swim, 56 mile bike, 13.1 mile run)
+[Spartan Sprint](https://www.spartan.com/en/race/detail/3926/overview) (5 miles)  
+[Spartan Super](https://www.spartan.com/en/race/detail/4236/overview) (8 miles)  
+[San Francisco Half Marathon](http://www.thesfmarathon.com/) (twice)  
+[Terrain Race](http://terrainrace.com/)   
+[Spartan Beast](https://www.spartan.com/en/race/detail/3690/overview) (16 miles)  
+[Tri Santa Cruz](http://www.finishlineproduction.com/events/triathlon/TriSantaCruz/TriSantaCruz.html) (1.5 km swim, 27 mile bike, 10k run)  
+[Half Ironman in Santa Cruz](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-cruz.aspx) (1.2 mile swim, 56 mile bike, 13.1 mile run)  
 
 ## Causes
 
