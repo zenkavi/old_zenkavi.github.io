@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "CV"
-    url: https://zenkavi.github.io/cv
+    url: /cv/
   - title: "Publications"
-    url: https://zenkavi.github.io/publications
+    url: /publications
   - title: "Projects"
-    url: https://zenkavi.github.io/projects
+    url: /projects
   - title: "Fundraising"
-    url: https://zenkavi.github.io/fundraising
+    url: /fundraising

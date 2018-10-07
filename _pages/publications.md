@@ -25,7 +25,7 @@ Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2
 **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A.,[“A
 large scale analysis of test-retest reliabilities of self-regulation measures”](https://psyarxiv.com/x5pm4) [Github](https://github.com/zenkavi/SRO_Retest_Analyses)
 
-Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., [“Uncovering mental structure through data-driven ontology discovery”](https://psyarxiv.com/fvqej/)[Github](https://github.com/zenkavi/Self_Regulation_Ontology)  
+Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., [“Uncovering mental structure through data-driven ontology discovery”](https://psyarxiv.com/fvqej/) [Github](https://github.com/zenkavi/Self_Regulation_Ontology)  
 
 ### In Preparation
 
