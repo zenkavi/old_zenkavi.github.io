@@ -4,7 +4,7 @@ title:  "Projects"
 permalink: /projects/
 ---
 
-## Self-regulation
+## Self-regulation and decision-making
 
 ### Ontological structure of the space
 
@@ -20,7 +20,7 @@ Tasked with finding the best 'behavioral assays' of self-regulation we examined 
 
 In this project
 
-## Tools for reproducible science
+## Reproducible science tools
 
 ### Experiment Factory
 
@@ -28,4 +28,13 @@ Experiment Factory is an "an open source framework for the development and deplo
 
 ### Reproducible meta-analysis
 
+This is a prospective project in a very early stage that I want to continue working on in the near future.
+
 Fast and reproducible meta-analysis tool for behavioral sciences
+
+Standardized data format
+Browser widget that saves dated search queries and results
+Online platform to upload published/unpublished datasets
+Result and keyword extractor from published papers
+Crowd-sourced tagging system of extracted results
+Search engine to filter extracted results
