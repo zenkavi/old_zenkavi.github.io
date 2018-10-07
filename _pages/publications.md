@@ -9,23 +9,23 @@ toc_label: " "
 ### Journal articles
 
 ￼Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J.
-￼(2018). Applying novel technologies and methods to inform the ontology of self-regulation. Behaviour research and
+￼(2018). [Applying novel technologies and methods to inform the ontology of self-regulation.](https://www.sciencedirect.com/science/article/pii/S0005796717302048) Behaviour research and
 ￼therapy, 101, 46-57.
 
-**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). Evidence for
-￼hippocampal dependence of value-based decisions. Scientific reports, 7(1), 17738.
+**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). [Evidence for
+￼hippocampal dependence of value-based decisions.](https://www.nature.com/articles/s41598-017-18015-4) Scientific reports, 7(1), 17738. [Github](https://github.com/zenkavi/TransitivityOpen)
 
-Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment
-￼factory: standardizing behavioral experiments. Frontiers in psychology, 7, 610.
+Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). [The experiment
+￼factory: standardizing behavioral experiments.](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00610/full) Frontiers in psychology, 7, 610. [Github](https://github.com/expfactory)
 
-Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). Sound credit scores and financial decisions despite cognitive aging. Proceedings of the National Academy of Sciences, 112(1), 65-69.  
+Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). [Sound credit scores and financial decisions despite cognitive aging.](http://www.pnas.org.stanford.idm.oclc.org/content/112/1/65) Proceedings of the National Academy of Sciences, 112(1), 65-69.  
 
 ### Preprints
 
-**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A
-large scale analysis of test-retest reliabilities of self-regulation measures”  
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A.,[“A
+large scale analysis of test-retest reliabilities of self-regulation measures”](https://psyarxiv.com/x5pm4) [Github](https://github.com/zenkavi/SRO_Retest_Analyses)
 
-Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “Uncovering mental structure through data-driven ontology discovery”  
+Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., [“Uncovering mental structure through data-driven ontology discovery”](https://psyarxiv.com/fvqej/)[Github](https://github.com/zenkavi/Self_Regulation_Ontology)  
 
 ### In Preparation
 
