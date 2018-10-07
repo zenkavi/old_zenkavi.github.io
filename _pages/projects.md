@@ -18,7 +18,7 @@ Tasked with finding the best 'behavioral assays' of self-regulation we examined 
 
 ### Developmental differences in decision-making under uncertainty
 
-In this project
+In this project we investigate the relationship between learning in environments with high variability and risk taking behavior in adolescents and young adults.
 
 ## Reproducible science tools
 
@@ -28,13 +28,10 @@ Experiment Factory is an "an open source framework for the development and deplo
 
 ### Reproducible meta-analysis
 
-This is a prospective project in a very early stage that I want to continue working on in the near future.
-
-Fast and reproducible meta-analysis tool for behavioral sciences
-
-Standardized data format
-Browser widget that saves dated search queries and results
-Online platform to upload published/unpublished datasets
-Result and keyword extractor from published papers
-Crowd-sourced tagging system of extracted results
-Search engine to filter extracted results
+This is a prospective project in a very early stage that I want to continue working on in the near future. The broad aim is to build tools that would enable researchers to conduct fast and reproducible meta-analyses. Some components I am currently considering include:
+Standardized data format for meta-analysis search results  
+Browser widget that saves dated search queries and results  
+Online platform to upload published/unpublished datasets  
+Result and keyword extractor from published papers  
+Crowd-sourced tagging system of extracted results  
+Search engine to filter extracted results  
