@@ -12,11 +12,7 @@ Psychology is rich with related constructs on self-regulation (e.g. impulsivity,
 
 ### Trait measures of self-regulation measures
 
-Tasked with finding the best 'behavioral assays' of self-regulation we 
-
-we followed up with 150 of our participants who completed our battery and asked them to
-
-In a more detailed analysis of this dataset we compared raw measures to model parameters as trait measures.
+Tasked with finding the best 'behavioral assays' of self-regulation we examined the stability of all the measures from our large battery of tasks and surveys. We followed up with 150 of our participants who completed our battery and asked them to complete it a second time 2-4 months after their initial completion. Additionally we completed a detailed analysis of the literature on the retest reliability of all our measures for comparability with our dataset. We found that the literature was noisy to begin with and that the survey measures were more reliable than task measures. We report our findings in our [preprint](https://psyarxiv.com/x5pm4).
 
 ### Reliability of neural correlates and behavioral measures of delay discounting
 
