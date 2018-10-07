@@ -44,7 +44,12 @@ Kazinka, R., **Enkavi, A. Z.**, Vo.K., Kable, J. “Not All Choosers: Individual
 
 ### Talks
 
-**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., Johnson, E. J. (2015), “Preference consistency relies on hippocampal function: Evidence from mediotemporal lobe epilepsy”, Interdisciplinary Symposium on Decision Neuroscience, MIT
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A. (2018), “A
+large scale analysis of test-retest reliabilities of self-regulation measures”, Cognitive and Neuroscience Seminar Series, Stanford [Slides](/assets/pdf/Frisem_05_18_18.pdf)
+
+**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., Johnson, E. J. (2015), “Preference consistency relies on hippocampal function: Evidence from mediotemporal lobe epilepsy”, Interdisciplinary Symposium on Decision Neuroscience, MIT [Slides](/assets/pdf/Enkavi_ISDN2015_Transitivity_final.pdf)
+
+**Enkavi, A. Z.**, McClure, S. M. (2015), "Discounting Non-Unitary Rewards", Cognitive and Neuroscience Seminar Series, Stanford [Slides](FriSem03Apr2015.pdf)
 
 ### Posters
 
