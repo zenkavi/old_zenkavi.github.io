@@ -10,11 +10,13 @@ permalink: /projects/
 
 Psychology is rich with related constructs on self-regulation (e.g. impulsivity, self-control, inhibition etc.) and even richer in behavioral tasks and surveys to measure these putative constructs. It does lack, however, a clear understanding of how these constructs and the measures relate to each other. As part of the [Science of Behavior Change](https://projectreporter.nih.gov/project_description.cfm?projectnumber=1UH2DA041713-01) initiative we addressed this question by running a large battery (35 tasks, 23 surveys) on a large sample (n=552). You can find our tantalizing results in our [preprint](https://psyarxiv.com/fvqej/).
 
-### Trait measures of self-regulation measures
+### Trait measures of self-regulation
 
 Tasked with finding the best 'behavioral assays' of self-regulation we examined the stability of all the measures from our large battery of tasks and surveys. We followed up with 150 of our participants who completed our battery and asked them to complete it a second time 2-4 months after their initial completion. Additionally we completed a detailed analysis of the literature on the retest reliability of all our measures for comparability with our dataset. We found that the literature was noisy to begin with and that the survey measures were more reliable than task measures. We report our findings in our [preprint](https://psyarxiv.com/x5pm4).
 
 ### Reliability of neural correlates and behavioral measures of delay discounting
+
+In this project we aim to build an ontology of the neural correlates of self-regulation. Specifically I will be analyzing the how structural and functional neural phenotypes map on to behavioral phenotypes in delay discounting.
 
 ### Developmental differences in decision-making under uncertainty
 
@@ -29,9 +31,9 @@ Experiment Factory is an "an open source framework for the development and deplo
 ### Reproducible meta-analysis
 
 This is a prospective project in a very early stage that I want to continue working on in the near future. The broad aim is to build tools that would enable researchers to conduct fast and reproducible meta-analyses. Some components I am currently considering include:
-Standardized data format for meta-analysis search results  
-Browser widget that saves dated search queries and results  
-Online platform to upload published/unpublished datasets  
-Result and keyword extractor from published papers  
-Crowd-sourced tagging system of extracted results  
-Search engine to filter extracted results  
+- Standardized data format for meta-analysis search results  
+- Browser widget that saves dated search queries and results  
+- Online platform to upload published/unpublished datasets  
+- Result and keyword extractor from published papers  
+- Crowd-sourced tagging system of extracted results  
+- Search engine to filter extracted results  

@@ -4,7 +4,7 @@ title: ""
 permalink: /cv/
 ---
 
-View as [PDF](assets/pdf/AyseZeynepEnkavi_CV_Oct2018.pdf)
+View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Oct2018.pdf)
 
 # A. Zeynep Enkavi
 
@@ -90,8 +90,6 @@ parameters”
 
 Gao, J., **Enkavi, A. Z.**, Li, Y., Johnson, E. J., Weber, E. U. “Age and gender differences in risk attitudes.” **Enkavi, A. Z.**, Gao, J., Li, Y., Johnson, E. J., Weber, E. U. “Comparison of risk attitude measures.”  
 
-Kazinka, R., **Enkavi, A. Z.**, Vo.K., Kable, J. “Not All Choosers: Individual Differences Reveal Cognitive Processes Involved in the Asymmetric Dominance Effect.”
-
 ## Presentations
 
 ### Talks
@@ -150,8 +148,8 @@ Introduction to Statistical Methods, Winter 2018
 Psych One Teaching Fellow, Fall 2015, Spring 2015, Fall 2017
 
 `2016`  
-Introduction to Learning and Memory, Spring 2016 Introduction to  
-Cognitive Neuroscience, Winter 2016
+Introduction to Learning and Memory, Spring 2016  
+Introduction to Cognitive Neuroscience, Winter 2016  
 
 ### Undergraduate research advising:
 

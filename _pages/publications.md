@@ -38,8 +38,6 @@ parameters”
 
 Gao, J., **Enkavi, A. Z.**, Li, Y., Johnson, E. J., Weber, E. U. “Age and gender differences in risk attitudes.” **Enkavi, A. Z.**, Gao, J., Li, Y., Johnson, E. J., Weber, E. U. “Comparison of risk attitude measures.”  
 
-Kazinka, R., **Enkavi, A. Z.**, Vo.K., Kable, J. “Not All Choosers: Individual Differences Reveal Cognitive Processes Involved in the Asymmetric Dominance Effect.”
-
 ## Presentations
 
 ### Talks
