@@ -50,21 +50,21 @@ Kazinka, R., **Enkavi, A. Z.**, Vo.K., Kable, J. “Not All Choosers: Individual
 
 **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of cognitive task measures of self-regulation” 2018. Society for Neuroeconomics Annual Meeting, Philadelphia, Pennsylvania. [PDF](https://github.com/zenkavi/SRO_DDM_Analyses/blob/master/presentations/NeuroeconPoster2018.pdf)
 
-**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of test-retest reliabilities of self-regulation measures” 2017. Society of Judgment and Decision Making Annual Meeting, Vancouver, Canada.[PDF](https://github.com/zenkavi/SRO_Retest_Analyses/blob/master/presentations/SJDMPoster2017.pdf)
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of test-retest reliabilities of self-regulation measures” 2017. Society of Judgment and Decision Making Annual Meeting, Vancouver, Canada. [PDF](https://github.com/zenkavi/SRO_Retest_Analyses/blob/master/presentations/SJDMPoster2017.pdf)
 
-**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of test-retest reliabilities of self-regulation measures” 2017. Society for Neuroeconomics Annual Meeting, Toronto, Canada.[PDF](https://github.com/zenkavi/SRO_Retest_Analyses/blob/master/presentations/NeuroeconPoster2017.pdf)
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A large scale analysis of test-retest reliabilities of self-regulation measures” 2017. Society for Neuroeconomics Annual Meeting, Toronto, Canada. [PDF](https://github.com/zenkavi/SRO_Retest_Analyses/blob/master/presentations/NeuroeconPoster2017.pdf)
 
-**Enkavi, A. Z.**, McClure, S. M, “Beyond Delay Discounting: Intertemporal Choice Between Non-Unitary Rewards” 2015. Society of Judgment and Decision Making Annual Meeting, Chicago, Illinois.[PDF](/assets/pdf/Enkavi_SJDMPoster2015.pdf)
+**Enkavi, A. Z.**, McClure, S. M, “Beyond Delay Discounting: Intertemporal Choice Between Non-Unitary Rewards” 2015. Society of Judgment and Decision Making Annual Meeting, Chicago, Illinois. [PDF](/assets/pdf/Enkavi_SJDMPoster2015.pdf)
 
-**Enkavi, A. Z.**, McClure, S. M, “Beyond Delay Discounting: Intertemporal Choice Between Non-Unitary Rewards” 2015 Society for Neuroeconomics Annual Meeting, Miami, Florida.[PDF]()  
+**Enkavi, A. Z.**, McClure, S. M, “Beyond Delay Discounting: Intertemporal Choice Between Non-Unitary Rewards” 2015 Society for Neuroeconomics Annual Meeting, Miami, Florida.[PDF](/assets/pdf/NeuroeconPoster2015.pdf)  
 
 ￼**Enkavi, A. Z.**, Gao, J., Li, Y., Johnson E. J., Weber, E. U. What Measures of Risk Attitude Predict Real World Risk
-￼Taking? 2014. Society of Judgment and Decision Making Annual Meeting, Long Beach, California.[PDF]()  
+￼Taking? 2014. Society of Judgment and Decision Making Annual Meeting, Long Beach, California.[PDF](/assets/pdf/RiskMeasuresJdmPoster2014Final.pdf)  
 
-￼**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., Johnson, E. J. Preference consistency relies on hippocampal function: Evidence from mediotemporal lobe epilepsy. 2014. Society of Judgment and Decision Making Annual Meeting, Long Beach, California.[PDF]()  
+￼**Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., Johnson, E. J. Preference consistency relies on hippocampal function: Evidence from mediotemporal lobe epilepsy. 2014. Society of Judgment and Decision Making Annual Meeting, Long Beach, California.[PDF](/assets/pdf/TransitivityJdmPoster2014Final.pdf)  
 
 Kazinka, R., **Enkavi, A. Z.**, Vo, K., Kable, J. W. Individual differences in the Asymmetric Dominance Effect. 2014.
-￼Society for Neuroeconomics Annual Meeting, Miami, Florida.[PDF]()  
+￼Society for Neuroeconomics Annual Meeting, Miami, Florida.[PDF](/assets/pdf/NECON_Adom_v3.pdf)  
 
 ￼**Enkavi, A. Z.**, Gao, J., Li, Y., Zaval, L., Johnson E. J., Weber, E. U. Neurons die, not knowledge: Domain
-￼knowledge compensates for declining cognitive ability in financial decision-making. 2013. Society of Judgment and Decision Making Annual Meeting, Toronto, Canada.[PDF]()
+￼knowledge compensates for declining cognitive ability in financial decision-making. 2013. Society of Judgment and Decision Making Annual Meeting, Toronto, Canada.[PDF](/assets/pdf/jdmposter2013.pdf)
