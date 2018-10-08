@@ -8,7 +8,7 @@ toc_label: " "
 
 A couple years ago I had a health scare. After that I changed my lifestyle and became more active. Soon after I found myself rolling in mud at obstacle course races as I have a habit of testing the boundaries of things. I'm sure there is a joke somewhere about studying self-control and self-experimenting.
 
-As I am finishing up one decade on this planet and starting a new one I decided to combine this newfound passion with something much  bigger than me that I've wanted to do: Racing for charity. Give me a birthday gift by donating the causes below and/or by sharing this page.
+As I am finishing up one decade on this planet and starting a new one I decided to combine this newfound passion with something much  bigger than me: Racing for charity. Give me a birthday gift by donating to the causes below and/or by sharing this page.
 
 ## Completed events
 
