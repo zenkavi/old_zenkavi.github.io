@@ -30,3 +30,33 @@ h2{
 h3{
   font-size: 0.75em
 }
+
+/*background color for main page*/
+html{
+  background-color: #eae7dc
+}
+
+/*font color for main page*/
+body{
+  color: #8e8d8a
+}
+
+/*header background-color*/
+.masthead__inner-wrap{
+  background-color: #e85a4b
+}
+.greedy-nav{
+  background: #e85a4b
+}
+
+/*nav bar font color*/
+.greedy-nav a{
+  color: #e98074
+}
+
+/*footer background-color*/
+/*footer font color*/
+.page__footer{
+  background-color: #e85a4b
+  color: #e98074
+}
