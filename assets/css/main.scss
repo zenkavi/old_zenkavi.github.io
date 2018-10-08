@@ -31,6 +31,8 @@ h3{
   font-size: 0.75em
 }
 
+/*Color scheme #24 from https://blog.visme.co/website-color-schemes/ */
+
 /*background color for main page*/
 html{
   background-color: #feffff
@@ -51,12 +53,16 @@ body{
 
 /*nav bar font color*/
 .greedy-nav a{
-  color: #3aafa9
+  color: #2b7a78
 }
 
 /*footer background-color*/
 /*footer font color*/
 .page__footer{
   background-color: #def2f1;
-  color: #3aafa9
+  color: #2b7a78
+}
+
+.author__avatar img{
+  border: 3px solid #2b7a78
 }
