@@ -22,7 +22,7 @@ gallery:
     alt: "image 4"
     title: "Spartan sprint finisher medals"
   - url: /assets/images/spartan_super_dunk.jpg
-    image_path: /assets/images/spartan_sprint_dunk.jpg
+    image_path: /assets/images/spartan_super_dunk.jpg
     alt: "image 5"
     title: "Spartan super wall dunk"
   - url: /assets/images/spartan_super_sandbag.jpg

@@ -66,3 +66,13 @@ body{
 .author__avatar img{
   border: 3px solid #2b7a78
 }
+
+figure img{
+  width: 100px;
+  height: 100px;
+  object-fit: scale-down
+}
+
+figure.third>a, figure.third>img {
+    width: calc(16% - 0.1em);
+}
