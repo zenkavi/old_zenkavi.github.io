@@ -75,10 +75,10 @@ As I am finishing up one decade on this planet and starting a new one I decided 
 
 I will swim 1.2 miles, bike 56 miles and run 13.1 miles at [Santa Rosa](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-rosa.aspx) at the end of July.
 
-[Click here to donate](http://ccfa.convio.net/goto/zeynep-for-crohns)
+[Click here to donate](http://ccfa.convio.net/goto/zeynep)
 
 ### AIDS LifeCycle
 
 I will bike from [San Francisco to Los Angeles](https://www.aidslifecycle.org/) (545 miles) during the first week of June.
 
-Donation link coming soon
+[Click here to donate](http://www.tofighthiv.org/goto/zeynep)
