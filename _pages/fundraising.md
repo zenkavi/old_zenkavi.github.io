@@ -57,7 +57,7 @@ gallery:
 
 A couple years ago I had a health scare. After that I changed my lifestyle and became more active. Soon after, I found myself rolling in mud at obstacle course races. I'm sure there is a joke somewhere about studying self-control and self-experimenting.
 
-As I am starting a new decade next year I decided to combine this newfound passion with something much bigger than me: Racing for charity. Give me a birthday gift by donating to the causes below and/or by sharing this page.
+As I am starting a new decade next year I decided to combine this newfound passion with something much bigger than me: Racing for charity. Give me and the millions I am racing for a birthday gift by donating to the causes below and/or by sharing this page.
 
 ## Causes
 
