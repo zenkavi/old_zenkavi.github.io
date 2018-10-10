@@ -55,9 +55,9 @@ gallery:
     title: "Ironman 70.3 Santa Cruz"
 ---
 
-A couple years ago I had a health scare. After that I changed my lifestyle and became more active. Soon after, I found myself rolling in mud at obstacle course races. I'm sure there is a joke somewhere about studying self-control and self-experimenting.
+As many of you know a couple years ago I had a health scare and changed my lifestyle to be more active. Soon after, I found myself rolling in mud at obstacle course races, running half-marathons and most recently completing triathlons. I’m sure there is a joke somewhere about studying self-control and self-experimenting.  
 
-As I am starting a new decade next year I decided to combine this newfound passion with something much bigger than me: Racing for charity. Give me and the millions I am racing for a birthday gift by donating to the causes below and/or by sharing this page.
+As I am starting a new decade next year I decided to combine this newfound passion for endurance races with something much bigger than me: Racing for charity. Give me and the millions I am racing for a birthday gift by donating to the causes below and/or by sharing this page.  
 
 ## Causes
 
