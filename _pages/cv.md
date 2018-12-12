@@ -67,11 +67,11 @@ Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P.,
 
 Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J.
 ￼(2018). Applying novel technologies and methods to inform the ontology of self-regulation. Behaviour research and
-￼therapy, 101, 46-57.  
+￼therapy, 101, 46-57.
 
 **Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). Evidence for
-￼hippocampal dependence of value-based decisions. Scientific reports, 7(1), 17738.  
-￼
+￼hippocampal dependence of value-based decisions. Scientific reports, 7(1), 17738.
+
 Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment
 ￼factory: standardizing behavioral experiments. Frontiers in psychology, 7, 610.
 
