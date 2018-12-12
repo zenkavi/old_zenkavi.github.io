@@ -4,7 +4,7 @@ title: ""
 permalink: /cv/
 ---
 
-View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Oct2018.pdf)
+View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Dec2018.pdf)
 
 # A. Zeynep Enkavi
 
@@ -60,24 +60,22 @@ University of Pennsylvania
 
 ### Journal articles
 
-￼Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J.
+￼**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A
+large scale analysis of test-retest reliabilities of self-regulation measures” Under revision.
+
+Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “Uncovering mental structure through data-driven ontology discovery” Under revision.
+
+Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J.
 ￼(2018). Applying novel technologies and methods to inform the ontology of self-regulation. Behaviour research and
 ￼therapy, 101, 46-57.  
 
 **Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). Evidence for
-￼hippocampal dependence of value-based decisions. Scientific reports, 7(1), 17738.
+￼hippocampal dependence of value-based decisions. Scientific reports, 7(1), 17738.  
 ￼
 Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). The experiment
 ￼factory: standardizing behavioral experiments. Frontiers in psychology, 7, 610.
 
 Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). Sound credit scores and financial decisions despite cognitive aging. Proceedings of the National Academy of Sciences, 112(1), 65-69.  
-
-### Preprints
-
-**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A
-large scale analysis of test-retest reliabilities of self-regulation measures”  
-
-Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “Uncovering mental structure through data-driven ontology discovery”  
 
 ### In Preparation
 
@@ -93,6 +91,8 @@ Gao, J., **Enkavi, A. Z.**, Li, Y., Johnson, E. J., Weber, E. U. “Age and gend
 ## Presentations
 
 ### Talks
+
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., L. A., Poldrack, R. A. (2018), “Trait measures of self-regulation from cogntiive tasks”, Cognitive and Neuroscience Seminar Series, Stanford  
 
 **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A. (2018), “A
 large scale analysis of test-retest reliabilities of self-regulation measures”, Cognitive and Neuroscience Seminar Series, Stanford
@@ -157,7 +157,10 @@ Introduction to Cognitive Neuroscience, Winter 2016
 Vinh Ton, Stanford University  
 
 `2016`
-Brian Wu, University of California, Berkeley   
+Brian Wu, University of California, Berkeley
+
+`2017`
+Dimitrios Konstantellos, MIT  
 
 `2014`
 Andrea Bell, Columbia University   
@@ -173,4 +176,4 @@ Elke U. Weber, Ph.D. Princeton University
 Joseph W. Kable, Ph.D. University of Pennsylvania  
 
 
-Last updated: October 2018
+Last updated: December 2018
