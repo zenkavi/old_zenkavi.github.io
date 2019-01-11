@@ -55,7 +55,7 @@ gallery:
     title: "Ironman 70.3 Santa Cruz"
 ---
 
-As many of you know a couple years ago I had a health scare and changed my lifestyle to be more active. Soon after, I found myself rolling in mud at obstacle course races, running half-marathons and most recently completing triathlons. I’m sure there is a joke somewhere about studying self-control and self-experimenting.  
+A couple years ago I had a health scare and changed my lifestyle to be more active. Soon after, I found myself rolling in mud at obstacle course races, running half-marathons and completing triathlons. I’m sure there is a joke somewhere about studying self-control and self-experimenting.  
 
 As I am starting a new decade next year I decided to combine this newfound passion for endurance races with something much bigger than me: Racing for charity. Give me and the millions I am racing for a birthday gift by donating to the causes below and/or by sharing this page.  
 
@@ -81,4 +81,4 @@ I will bike from [San Francisco to Los Angeles](https://www.aidslifecycle.org/) 
 [Terrain Race](http://terrainrace.com/) (10k)   
 [Spartan Beast](https://www.spartan.com/en/race/detail/3690/overview) (16 miles)  
 [Tri Santa Cruz](http://www.finishlineproduction.com/events/triathlon/TriSantaCruz/TriSantaCruz.html) (1.5 km swim, 27 mile bike, 10k run)  
-[Half Ironman in Santa Cruz](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-cruz.aspx) (1.2 mile swim, 56 mile bike, 13.1 mile run)  
+[Ironman 70.3 Santa Cruz](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-cruz.aspx) (1.2 mile swim, 56 mile bike, 13.1 mile run)  
