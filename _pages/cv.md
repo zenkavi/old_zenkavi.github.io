@@ -63,7 +63,7 @@ University of Pennsylvania
 Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “Uncovering mental structure through data-driven ontology discovery” Under revision.
 
 ￼**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A
-large scale analysis of test-retest reliabilities of self-regulation measures” PNAS. In Press.
+large scale analysis of test-retest reliabilities of self-regulation measures” Proceedings of the National Academy of Sciences. In Press.
 
 Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J.
 ￼(2018). Applying novel technologies and methods to inform the ontology of self-regulation. Behaviour research and

@@ -9,7 +9,7 @@ toc_label: " "
 ### Journal articles
 
 **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A.,[“A
-large scale analysis of test-retest reliabilities of self-regulation measures”] PNAS, In Press. [Github](https://github.com/zenkavi/SRO_Retest_Analyses)
+large scale analysis of test-retest reliabilities of self-regulation measures”] Proceedings of the National Academy of Sciences, In Press. [Github](https://github.com/zenkavi/SRO_Retest_Analyses)
 
 ￼Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J.
 ￼(2018). [Applying novel technologies and methods to inform the ontology of self-regulation.](https://www.sciencedirect.com/science/article/pii/S0005796717302048) Behaviour research and ￼therapy, 101, 46-57.
