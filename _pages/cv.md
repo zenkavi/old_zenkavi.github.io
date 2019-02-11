@@ -4,7 +4,7 @@ title: ""
 permalink: /cv/
 ---
 
-View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Dec2018.pdf)
+View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Feb2019.pdf)
 
 # A. Zeynep Enkavi
 
@@ -60,10 +60,10 @@ University of Pennsylvania
 
 ### Journal articles
 
-￼**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A
-large scale analysis of test-retest reliabilities of self-regulation measures” Under revision.
-
 Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “Uncovering mental structure through data-driven ontology discovery” Under revision.
+
+￼**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “A
+large scale analysis of test-retest reliabilities of self-regulation measures” PNAS. In Press.
 
 Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J.
 ￼(2018). Applying novel technologies and methods to inform the ontology of self-regulation. Behaviour research and
@@ -176,4 +176,4 @@ Elke U. Weber, Ph.D. Princeton University
 Joseph W. Kable, Ph.D. University of Pennsylvania  
 
 
-Last updated: December 2018
+Last updated: February 2019
