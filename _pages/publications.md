@@ -8,8 +8,9 @@ toc_label: " "
 
 ### Journal articles
 
-**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L, MacKinnon, D. P., Marsch, L. A., Poldrack, R. A.,[“A
-large scale analysis of test-retest reliabilities of self-regulation measures”] Proceedings of the National Academy of Sciences, In Press. [Github](https://github.com/zenkavi/SRO_Retest_Analyses)
+Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., [“Uncovering mental structure through data-driven ontology discovery”](https://psyarxiv.com/fvqej/) [Github](https://github.com/zenkavi/Self_Regulation_Ontology)
+
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Large-scale analysis of test–retest reliabilities of self-regulation measures. Proceedings of the National Academy of Sciences, 116(12), 5472-5477. [Github](https://github.com/zenkavi/SRO_Retest_Analyses)
 
 ￼Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J.
 ￼(2018). [Applying novel technologies and methods to inform the ontology of self-regulation.](https://www.sciencedirect.com/science/article/pii/S0005796717302048) Behaviour research and ￼therapy, 101, 46-57.
@@ -21,10 +22,6 @@ Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Po
 ￼factory: standardizing behavioral experiments.](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00610/full) Frontiers in psychology, 7, 610. [Github](https://github.com/expfactory)
 
 Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). [Sound credit scores and financial decisions despite cognitive aging.](http://www.pnas.org.stanford.idm.oclc.org/content/112/1/65) Proceedings of the National Academy of Sciences, 112(1), 65-69.  
-
-### Preprints
-
-Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., [“Uncovering mental structure through data-driven ontology discovery”](https://psyarxiv.com/fvqej/) [Github](https://github.com/zenkavi/Self_Regulation_Ontology)  
 
 ### In Preparation
 
