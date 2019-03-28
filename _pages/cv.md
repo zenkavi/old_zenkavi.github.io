@@ -4,7 +4,7 @@ title: ""
 permalink: /cv/
 ---
 
-View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Feb2019.pdf)
+View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Mar2019.pdf)
 
 # A. Zeynep Enkavi
 
