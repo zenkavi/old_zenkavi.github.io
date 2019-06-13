@@ -53,6 +53,22 @@ gallery:
     image_path: /assets/images/ironman_703_santa_cruz.jpg
     alt: "image 12"
     title: "Ironman 70.3 Santa Cruz"
+  - url: /assets/images/ALC_1.jpg
+    image_path: /assets/images/ALC_1.jpg
+    alt: "image 13"
+    title: "AIDS LifeCycle"
+  - url: /assets/images/ALC_2.jpg
+    image_path: /assets/images/ALC_2.jpg
+    alt: "image 14"
+    title: "AIDS LifeCycle"
+  - url: /assets/images/ALC_3.jpg
+    image_path: /assets/images/ALC_3.jpg
+    alt: "image 15"
+    title: "AIDS LifeCycle"
+  - url: /assets/images/ALC_4.jpg
+    image_path: /assets/images/ALC_4.jpg
+    alt: "image 16"
+    title: "AIDS LifeCycle"
 ---
 
 A couple years ago I had a health scare and changed my lifestyle to be more active. Soon after, I found myself rolling in mud at obstacle course races, running half-marathons and completing triathlons. I’m sure there is a joke somewhere about studying self-control and self-experimenting.  
@@ -67,12 +83,6 @@ I will swim 1.2 miles, bike 56 miles and run 13.1 miles at [Santa Rosa](http://w
 
 [Click here to donate](http://ccfa.convio.net/goto/zeynep)
 
-### AIDS LifeCycle
-
-I will bike from [San Francisco to Los Angeles](https://www.aidslifecycle.org/) (545 miles) during the first week of June.
-
-[Click here to donate](http://www.tofighthiv.org/goto/zeynep)
-
 ## Completed events
 
 [Spartan Sprint](https://www.spartan.com/en/race/detail/3926/overview) (5 miles)  
@@ -82,3 +92,4 @@ I will bike from [San Francisco to Los Angeles](https://www.aidslifecycle.org/) 
 [Spartan Beast](https://www.spartan.com/en/race/detail/3690/overview) (16 miles)  
 [Tri Santa Cruz](http://www.finishlineproduction.com/events/triathlon/TriSantaCruz/TriSantaCruz.html) (1.5 km swim, 27 mile bike, 10k run)  
 [Ironman 70.3 Santa Cruz](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-cruz.aspx) (1.2 mile swim, 56 mile bike, 13.1 mile run)  
+[AIDS LifeCycle](https://www.aidslifecycle.org/) (545 miles from San Francisco to Los Angeles during the first week of June)

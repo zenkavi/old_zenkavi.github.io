@@ -4,7 +4,7 @@ title: ""
 permalink: /cv/
 ---
 
-View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Mar2019.pdf)
+View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_June2019.pdf)
 
 # A. Zeynep Enkavi
 
@@ -21,6 +21,7 @@ __Stanford University, Stanford, CA__
 
 - PhD Student in Psychology
 - Advisor: Russell A. Poldrack
+- Thesis Title: Behavioral and neural markers of individual differences in self-regulation
 
 `2012 - 2014`
 __Columbia Graduate School of Business, New York, NY__
@@ -60,7 +61,7 @@ University of Pennsylvania
 
 ### Journal articles
 
-Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., “Uncovering mental structure through data-driven ontology discovery” Provisionally accepted, Nature Communications.
+Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Uncovering the structure of self-regulation through data-driven ontology discovery. Nature communications, 10(1), 2319.  
 
 **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Large-scale analysis of test–retest reliabilities of self-regulation measures. Proceedings of the National Academy of Sciences, 116(12), 5472-5477.
 
@@ -175,4 +176,4 @@ Elke U. Weber, Ph.D. Princeton University
 Joseph W. Kable, Ph.D. University of Pennsylvania  
 
 
-Last updated: February 2019
+Last updated: June 2019

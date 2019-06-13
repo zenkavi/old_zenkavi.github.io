@@ -8,7 +8,7 @@ toc_label: " "
 
 ### Journal articles
 
-Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., , MacKinnon, D. P., Marsch, L. A., Poldrack, R. A., [“Uncovering mental structure through data-driven ontology discovery”](https://psyarxiv.com/fvqej/) [Github](https://github.com/zenkavi/Self_Regulation_Ontology)
+Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). ["Uncovering the structure of self-regulation through data-driven ontology discovery."](https://www.nature.com/articles/s41467-019-10301-1) Nature communications, 10(1), 2319. [Github](https://github.com/zenkavi/Self_Regulation_Ontology)
 
 **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). [Large-scale analysis of test–retest reliabilities of self-regulation measures.](https://www-pnas-org.stanford.idm.oclc.org/content/116/12/5472) Proceedings of the National Academy of Sciences, 116(12), 5472-5477. [Github](https://github.com/zenkavi/SRO_Retest_Analyses)
 
