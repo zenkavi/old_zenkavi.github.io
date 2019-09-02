@@ -77,19 +77,16 @@ As I am starting a new decade next year I decided to combine this newfound passi
 
 ## Causes
 
-### Ironman 70.3 for Crohn's and Colitis Foundation
-
-I will swim 1.2 miles, bike 56 miles and run 13.1 miles at [Santa Rosa](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-rosa.aspx) at the end of July.
-
-[Click here to donate](http://ccfa.convio.net/goto/zeynep)
+New events for 2019-2020 season coming soon!
 
 ## Completed events
 
-[Spartan Sprint](https://www.spartan.com/en/race/detail/3926/overview) (5 miles)  
-[Spartan Super](https://www.spartan.com/en/race/detail/4236/overview) (8 miles)  
-[San Francisco Half Marathon](http://www.thesfmarathon.com/) (twice)  
-[Terrain Race](http://terrainrace.com/) (10k)   
-[Spartan Beast](https://www.spartan.com/en/race/detail/3690/overview) (16 miles)  
-[Tri Santa Cruz](http://www.finishlineproduction.com/events/triathlon/TriSantaCruz/TriSantaCruz.html) (1.5 km swim, 27 mile bike, 10k run)  
-[Ironman 70.3 Santa Cruz](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-cruz.aspx) (1.2 mile swim, 56 mile bike, 13.1 mile run)  
+[Spartan Sprint](https://www.spartan.com/en/race/detail/3926/overview)  
+[Spartan Super](https://www.spartan.com/en/race/detail/4236/overview)
+[San Francisco Half Marathon](http://www.thesfmarathon.com/)
+[Terrain Race](http://terrainrace.com/)
+[Spartan Beast](https://www.spartan.com/en/race/detail/3690/overview)
+[Tri Santa Cruz](http://www.finishlineproduction.com/events/triathlon/TriSantaCruz/TriSantaCruz.html)  
+[Ironman 70.3 Santa Cruz](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-cruz.aspx)
 [AIDS LifeCycle](https://www.aidslifecycle.org/) (545 miles from San Francisco to Los Angeles during the first week of June)
+[Ironman 70.3 Santa Rosa](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-rosa.aspx) with Team Challenge for Crohn's and Colitis Foundation

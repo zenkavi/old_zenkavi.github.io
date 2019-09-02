@@ -4,7 +4,7 @@ title: ""
 permalink: /cv/
 ---
 
-View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_June2019.pdf)
+View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Sept2019.pdf)
 
 # A. Zeynep Enkavi
 
@@ -16,7 +16,13 @@ Tool building for reproducible meta-analysis
 
 ## Education
 
-`2014-Present`
+`2019-Present`
+__Caltech, Pasadena, CA__
+
+- Postdoctoral Scholar in Neuroeconomics
+- Advisor: Antonio Rangel
+
+`2014-2019`
 __Stanford University, Stanford, CA__
 
 - PhD Student in Psychology
@@ -169,11 +175,17 @@ Joachim Talloen, Rutgers University
 `2013`
 Tae Ho Kim, University of Chicago   
 
-## References
+## Ad hoc Reviewer
+
+Cerebral Cortex
+Biological Psychiatry
+
+## References  
+
 Russell A. Poldrack, Ph.D. Stanford University  
 Eric J. Johnson, Ph.D. Columbia Business School  
 Elke U. Weber, Ph.D. Princeton University  
 Joseph W. Kable, Ph.D. University of Pennsylvania  
 
 
-Last updated: June 2019
+Last updated: September 2019
