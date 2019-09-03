@@ -82,11 +82,11 @@ New events for 2019-2020 season coming soon!
 ## Completed events
 
 [Spartan Sprint](https://www.spartan.com/en/race/detail/3926/overview)  
-[Spartan Super](https://www.spartan.com/en/race/detail/4236/overview)
-[San Francisco Half Marathon](http://www.thesfmarathon.com/)
-[Terrain Race](http://terrainrace.com/)
-[Spartan Beast](https://www.spartan.com/en/race/detail/3690/overview)
-[Tri Santa Cruz](http://www.finishlineproduction.com/events/triathlon/TriSantaCruz/TriSantaCruz.html)  
-[Ironman 70.3 Santa Cruz](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-cruz.aspx)
-[AIDS LifeCycle](https://www.aidslifecycle.org/) (545 miles from San Francisco to Los Angeles during the first week of June)
-[Ironman 70.3 Santa Rosa](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-rosa.aspx) with Team Challenge for Crohn's and Colitis Foundation
+[Spartan Super](https://www.spartan.com/en/race/detail/4236/overview)  
+[San Francisco Half Marathon](http://www.thesfmarathon.com/)  
+[Terrain Race](http://terrainrace.com/)  
+[Spartan Beast](https://www.spartan.com/en/race/detail/3690/overview)  
+[Tri Santa Cruz](http://www.finishlineproduction.com/events/triathlon/TriSantaCruz/TriSantaCruz.html)    
+[Ironman 70.3 Santa Cruz](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-cruz.aspx)  
+[AIDS LifeCycle](https://www.aidslifecycle.org/) (545 miles from San Francisco to Los Angeles during the first week of June)  
+[Ironman 70.3 Santa Rosa](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-rosa.aspx) with Team Challenge for Crohn's and Colitis Foundation  

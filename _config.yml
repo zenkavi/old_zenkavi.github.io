@@ -63,7 +63,7 @@ repository: "zenkavi/zenkavi.github.io"
 author:
   name: Zeynep Enkavi
   avatar: "assets/images/bio.jpeg"
-  bio: "Stanford Psychology PhD Candidate interested in neuroeconomics, self-regulation and meta-analysis."
+  bio: "Postdoctoral scholar in Neuroeconomics at Caltech studying self-regulation."
   links:
     - label: ""
       icon: "fas fa-fw fa-envelope-square"
