@@ -16,7 +16,7 @@ Tool building for reproducible meta-analysis
 
 ## Education
 
-`2019-Present`
+`2019 -`
 __Caltech, Pasadena, CA__
 
 - Postdoctoral Scholar in Neuroeconomics
