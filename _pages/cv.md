@@ -4,7 +4,7 @@ title: ""
 permalink: /cv/
 ---
 
-View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Sept2019.pdf)
+View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Oct2019.pdf)
 
 # A. Zeynep Enkavi
 
@@ -22,19 +22,19 @@ __Caltech, Pasadena, CA__
 - Postdoctoral Scholar in Neuroeconomics
 - Advisor: Antonio Rangel
 
-`2014-2019`
+`2014 - 19`
 __Stanford University, Stanford, CA__
 
 - PhD Student in Psychology
 - Advisor: Russell A. Poldrack
 - Thesis Title: Behavioral and neural markers of individual differences in self-regulation
 
-`2012 - 2014`
+`2012 - 14`
 __Columbia Graduate School of Business, New York, NY__
 
 - Advisor: Eric J. Johnson and Elke U. Weber
 
-`2008 - 2012`
+`2008 - 12`
 __University of Pennsylvania, Philadelphia, PA__
 - B.A. in Cognitive Science and German, magna cum laude
 - Minor in Science, Technology and Society
@@ -43,11 +43,11 @@ __University of Pennsylvania, Philadelphia, PA__
 
 ## Awards and Honors
 
-`2014 - 2019`
+`2014 - 19`
 Stanford Graduate Fellowship
 Stanford University
 
-`2008 - 2012`
+`2008 - 12`
 Penn World Scholars
 University of Pennsylvania
 
@@ -55,7 +55,7 @@ University of Pennsylvania
 Erich Friedmann Memorial Prize
 University of Pennsylvania
 
-`2010-2012`
+`2010 - 12`
 Dean's List
 University of Pennsylvania
 
@@ -150,7 +150,7 @@ OHBM Brainhack hackathon
 Brain and Decision Making, Teaching Assistant, Spring 2018   
 Introduction to Statistical Methods, Winter 2018
 
-`2015-2017`  
+`2015 - 17`  
 Psych One Teaching Fellow, Fall 2015, Spring 2015, Fall 2017
 
 `2016`  
@@ -159,7 +159,7 @@ Introduction to Cognitive Neuroscience, Winter 2016
 
 ### Undergraduate research advising:
 
-`2016-2018`
+`2016 - 18`
 Vinh Ton, Stanford University  
 
 `2016`
@@ -188,4 +188,4 @@ Elke U. Weber, Ph.D. Princeton University
 Joseph W. Kable, Ph.D. University of Pennsylvania  
 
 
-Last updated: September 2019
+Last updated: October 2019
