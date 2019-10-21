@@ -62,7 +62,7 @@ repository: "zenkavi/zenkavi.github.io"
 
 author:
   name: Zeynep Enkavi
-  avatar: "assets/images/headshot.jpeg"
+  avatar: "assets/images/headshot.jpg"
   bio: "Postdoctoral scholar in Neuroeconomics at Caltech studying self-regulation."
   links:
     - label: ""
