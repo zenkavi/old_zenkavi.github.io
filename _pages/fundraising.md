@@ -71,10 +71,6 @@ gallery:
     title: "AIDS LifeCycle"
 ---
 
-A couple years ago I had a health scare and changed my lifestyle to be more active. Soon after, I found myself rolling in mud at obstacle course races, running half-marathons and completing triathlons. I’m sure there is a joke somewhere about studying self-control and self-experimenting.  
-
-As I am starting a new decade next year I decided to combine this newfound passion for endurance races with something much bigger than me: Racing for charity. Give me and the millions I am racing for a birthday gift by donating to the causes below and/or by sharing this page.  
-
 ## Causes
 
 New events for 2019-2020 season coming soon!
@@ -90,3 +86,5 @@ New events for 2019-2020 season coming soon!
 [Ironman 70.3 Santa Cruz](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-cruz.aspx)  
 [AIDS LifeCycle](https://www.aidslifecycle.org/) (545 miles from San Francisco to Los Angeles during the first week of June)  
 [Ironman 70.3 Santa Rosa](http://www.ironman.com/triathlon/events/americas/ironman-70.3/santa-rosa.aspx) with Team Challenge for Crohn's and Colitis Foundation  
+[Phil's Cookie Fondo](https://www.philsfondo.com/)
+[Figueroa Mountain Gran Fondo](https://trainright.com/granfondo/)
