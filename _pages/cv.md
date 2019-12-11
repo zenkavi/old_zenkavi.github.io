@@ -180,7 +180,7 @@ Tae Ho Kim, University of Chicago
 ## Ad hoc Reviewer
 
 Cerebral Cortex  
-Biological Psychiatry
+Biological Psychiatry  
 Trends in Cognitive Sciences
 
 ## References  
