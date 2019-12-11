@@ -4,7 +4,7 @@ title: ""
 permalink: /cv/
 ---
 
-View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Oct2019.pdf)
+View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Dec2019.pdf)
 
 # A. Zeynep Enkavi
 
@@ -66,6 +66,8 @@ University of Pennsylvania
 ## Publications
 
 ### Journal articles
+
+**Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Reply to Friedman and Banich: Right measures for the research question. Proceedings of the National Academy of Sciences, 116(49), 24398-24399.
 
 Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). Uncovering the structure of self-regulation through data-driven ontology discovery. Nature communications, 10(1), 2319.  
 
@@ -179,6 +181,7 @@ Tae Ho Kim, University of Chicago
 
 Cerebral Cortex  
 Biological Psychiatry
+Trends in Cognitive Sciences
 
 ## References  
 
@@ -188,4 +191,4 @@ Elke U. Weber, Ph.D. Princeton University
 Joseph W. Kable, Ph.D. University of Pennsylvania  
 
 
-Last updated: October 2019
+Last updated: December 2019
