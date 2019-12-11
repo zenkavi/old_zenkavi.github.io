@@ -74,7 +74,7 @@ gallery:
 ## Causes
 
 ### AIDS LifeCycle 2020
-Donation link [here](http://www.tofighthiv.org/goto/zeynep2020)
+Donation link [here](http://www.tofighthiv.org/goto/zeynep2020).  
 Cash donations sent via Venmo (@Zeynep-Enkavi) or Paypal (zenkavi2000@gmail.com) will be DOUBLED!
 
 ## Completed events
