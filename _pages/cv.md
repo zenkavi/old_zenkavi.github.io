@@ -4,7 +4,7 @@ title: ""
 permalink: /cv/
 ---
 
-View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Dec2019.pdf)
+View as [PDF](../assets/pdf/AyseZeynepEnkavi_CV_Feb2020.pdf)
 
 # A. Zeynep Enkavi
 
@@ -182,6 +182,7 @@ Tae Ho Kim, University of Chicago
 Cerebral Cortex  
 Biological Psychiatry  
 Trends in Cognitive Sciences
+Nature Human Behaviour
 
 ## References  
 
@@ -191,4 +192,4 @@ Elke U. Weber, Ph.D. Princeton University
 Joseph W. Kable, Ph.D. University of Pennsylvania  
 
 
-Last updated: December 2019
+Last updated: February 2020
