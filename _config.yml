@@ -17,7 +17,7 @@ minimal_mistakes_skin: "mint"
 locale: "en-US"
 title: A. Zeynep Enkavi
 title_separator: "-"
-name: &name "A. Zeynep Enkavi"
+name: ""
 email: zenkavi@caltech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Neuroeconomics. Self-regulation. Meta-analysis.
@@ -124,7 +124,7 @@ repository: "zenkavi/zenkavi.github.io"
 
 author:
   name: Zeynep Enkavi
-  avatar: "assets/images/headshot.jpg"
+  avatar: "./assets/images/headshot.jpg"
   bio: "Postdoctoral scholar in Neuroeconomics at Caltech"
   links:
     - label: ""

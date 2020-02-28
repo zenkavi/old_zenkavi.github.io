@@ -181,7 +181,7 @@ Tae Ho Kim, University of Chicago
 
 Cerebral Cortex  
 Biological Psychiatry  
-Trends in Cognitive Sciences
+Trends in Cognitive Sciences  
 Nature Human Behaviour
 
 ## References  
