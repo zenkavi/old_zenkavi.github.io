@@ -87,7 +87,7 @@ paginate_path: /page:num/
 timezone: America/Los_Angeles
 
 #theme: minimal-mistakes-jekyll
-#remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
