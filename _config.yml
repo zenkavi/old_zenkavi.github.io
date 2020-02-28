@@ -70,7 +70,7 @@ repository: "zenkavi/zenkavi.github.io"
 author:
   name: A. Zeynep Enkavi
   avatar: "assets/images/headshot.jpg"
-  bio: "Postdoctoral scholar in Neuroeconomics at Caltech studying self-regulation."
+  bio: "Postdoctoral scholar in Neuroeconomics at Caltech"
   links:
     - label: ""
       icon: "fas fa-fw fa-envelope-square"
