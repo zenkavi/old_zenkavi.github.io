@@ -8,19 +8,19 @@ toc_label: " "
 
 ### Journal articles
 
-7- **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). [Reply to Friedman and Banich: Right measures for the research question.](https://www.pnas.org/content/116/49/24398.short) Proceedings of the National Academy of Sciences, 116(49), 24398-24399.
+**7)** **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). [Reply to Friedman and Banich: Right measures for the research question.](https://www.pnas.org/content/116/49/24398.short) Proceedings of the National Academy of Sciences, 116(49), 24398-24399.
 
-6- Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). ["Uncovering the structure of self-regulation through data-driven ontology discovery."](https://www.nature.com/articles/s41467-019-10301-1) Nature communications, 10(1), 2319. [Github](https://github.com/zenkavi/Self_Regulation_Ontology)
+**6)** Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). ["Uncovering the structure of self-regulation through data-driven ontology discovery."](https://www.nature.com/articles/s41467-019-10301-1) Nature communications, 10(1), 2319. [Github](https://github.com/zenkavi/Self_Regulation_Ontology)
 
-5- **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). [Large-scale analysis of test–retest reliabilities of self-regulation measures.](https://www-pnas-org.stanford.idm.oclc.org/content/116/12/5472) Proceedings of the National Academy of Sciences, 116(12), 5472-5477. [Github](https://github.com/zenkavi/SRO_Retest_Analyses)
+**5)** **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). [Large-scale analysis of test–retest reliabilities of self-regulation measures.](https://www-pnas-org.stanford.idm.oclc.org/content/116/12/5472) Proceedings of the National Academy of Sciences, 116(12), 5472-5477. [Github](https://github.com/zenkavi/SRO_Retest_Analyses)
 
-4- Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J. ￼(2018). [Applying novel technologies and methods to inform the ontology of self-regulation.](https://www.sciencedirect.com/science/article/pii/S0005796717302048) Behaviour research and ￼therapy, 101, 46-57.
+**4)** Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J. ￼(2018). [Applying novel technologies and methods to inform the ontology of self-regulation.](https://www.sciencedirect.com/science/article/pii/S0005796717302048) Behaviour research and ￼therapy, 101, 46-57.
 
-3- **Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). [Evidence for ￼hippocampal dependence of value-based decisions.](https://www.nature.com/articles/s41598-017-18015-4) Scientific reports, 7(1), 17738. [Github](https://github.com/zenkavi/TransitivityOpen)
+**3)** **Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). [Evidence for ￼hippocampal dependence of value-based decisions.](https://www.nature.com/articles/s41598-017-18015-4) Scientific reports, 7(1), 17738. [Github](https://github.com/zenkavi/TransitivityOpen)
 
-2- Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). [The experiment factory standardizing behavioral experiments.](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00610/full) Frontiers in psychology, 7, 610. [Github](https://github.com/expfactory)
+**2)** Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). [The experiment factory standardizing behavioral experiments.](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00610/full) Frontiers in psychology, 7, 610. [Github](https://github.com/expfactory)
 
-1- Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). [Sound credit scores and financial decisions despite cognitive aging.](http://www.pnas.org.stanford.idm.oclc.org/content/112/1/65) Proceedings of the National Academy of Sciences, 112(1), 65-69.  
+**1)** Li, Y., Gao, J., **Enkavi, A. Z.**, Zaval, L., Weber, E. U., & Johnson, E. J. (2015). [Sound credit scores and financial decisions despite cognitive aging.](http://www.pnas.org.stanford.idm.oclc.org/content/112/1/65) Proceedings of the National Academy of Sciences, 112(1), 65-69.  
 
 ## Presentations
 
