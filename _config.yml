@@ -15,35 +15,49 @@
 # in the templates via {{ site.myvariable }}.
 minimal_mistakes_skin: "mint"
 locale: "en-US"
-title: Zeynep Enkavi
+title: A. Zeynep Enkavi
 title_separator: "-"
+name: &name "A. Zeynep Enkavi"
 email: zenkavi@caltech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Neuroeconomics. Self-regulation. Meta-analysis.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://zenkavi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zeynepenkavi
 github_username:  zenkavi
+future: true
 
 # Build settings
 markdown: kramdown
-#theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes"
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-remote-theme
-  - jekyll-include-cache
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
 
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-include-cache
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Collections
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
 
 # Custom front matter defaults
 defaults:
@@ -63,6 +77,40 @@ defaults:
       layout: single
       author_profile: true
 
+sass:
+  sass_dir: _sass
+  style: compressed
+
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/Los_Angeles
+
+#theme: minimal-mistakes-jekyll
+#remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+  #- jemoji
+  #- jekyll-remote-theme
+  #- jekyll-include-cache
+
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jemoji
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
 # Minimal mistakes settings: https://github.com/mmistakes/minimal-mistakes/blob/master/_config.yml
 name: "Zeynep Enkavi"
 repository: "zenkavi/zenkavi.github.io"
@@ -70,7 +118,7 @@ repository: "zenkavi/zenkavi.github.io"
 author:
   name: Zeynep Enkavi
   avatar: "assets/images/headshot.jpg"
-  bio: "Postdoctoral scholar in Neuroeconomics at Caltech studying self-regulation."
+  bio: "Postdoctoral scholar in Neuroeconomics at Caltech"
   links:
     - label: ""
       icon: "fas fa-fw fa-envelope-square"
@@ -100,45 +148,34 @@ footer:
 include:
   - .htaccess
   - _pages
-
-kramdown:
-  input: GFM
-  hard_wrap: false
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-
-
-whitelist:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-remote-theme
-  - jekyll-include-cache
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 style: kjhealy
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
