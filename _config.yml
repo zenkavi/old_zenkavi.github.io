@@ -22,10 +22,9 @@ email: zenkavi@caltech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Neuroeconomics. Self-regulation. Meta-analysis.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zenkavi.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: zeynepenkavi
 github_username:  zenkavi
-future: true
 
 # Build settings
 markdown: kramdown
