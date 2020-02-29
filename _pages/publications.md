@@ -16,7 +16,7 @@ toc_label: " "
 
 **4)** Eisenberg, I. W., Bissett, P. G., Canning, J. R., Dallery, J., **Enkavi, A. Z.**, Whitfield-Gabrieli, S., ... & Kim, S. J. ￼(2018). [Applying novel technologies and methods to inform the ontology of self-regulation.](https://www.sciencedirect.com/science/article/pii/S0005796717302048) Behaviour research and ￼therapy, 101, 46-57.
 
-**3)** **Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). [Evidence for ￼hippocampal dependence of value-based decisions.](https://www.nature.com/articles/s41598-017-18015-4) Scientific reports, 7(1), 17738. [Github](https://github.com/zenkavi/TransitivityOpen)
+**3)** **Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., & Johnson, E. J. (2017). [Evidence for hippocampal dependence of value-based decisions.](https://www.nature.com/articles/s41598-017-18015-4) Scientific reports, 7(1), 17738. [Github](https://github.com/zenkavi/TransitivityOpen)
 
 **2)** Sochat, V. V., Eisenberg, I. W., **Enkavi, A. Z.**, Li, J., Bissett, P. G., & Poldrack, R. A. (2016). [The experiment factory standardizing behavioral experiments.](https://www.frontiersin.org/articles/10.3389/fpsyg.2016.00610/full) Frontiers in psychology, 7, 610. [Github](https://github.com/expfactory)
 
@@ -46,8 +46,6 @@ toc_label: " "
 
 **Enkavi, A. Z.**, Weber, B., Zweyer, I., Wagner, J., Elger, C. E., Weber, E. U., Johnson, E. J. Preference consistency relies on hippocampal function: Evidence from mediotemporal lobe epilepsy. 2014. Society of Judgment and Decision Making Annual Meeting, Long Beach, California.[PDF](/assets/pdf/TransitivityJdmPoster2014Final.pdf)  
 
-Kazinka, R., **Enkavi, A. Z.**, Vo, K., Kable, J. W. Individual differences in the Asymmetric Dominance Effect. 2014.
-￼Society for Neuroeconomics Annual Meeting, Miami, Florida.[PDF](/assets/pdf/NECON_Adom_v3.pdf)
+Kazinka, R., **Enkavi, A. Z.**, Vo, K., Kable, J. W. Individual differences in the Asymmetric Dominance Effect. 2014. Society for Neuroeconomics Annual Meeting, Miami, Florida.[PDF](/assets/pdf/NECON_Adom_v3.pdf)
 
-￼**Enkavi, A. Z.**, Gao, J., Li, Y., Zaval, L., Johnson E. J., Weber, E. U. Neurons die, not knowledge: Domain
-￼knowledge compensates for declining cognitive ability in financial decision-making. 2013. Society of Judgment and Decision Making Annual Meeting, Toronto, Canada.[PDF](/assets/pdf/jdmposter2013.pdf)
+￼**Enkavi, A. Z.**, Gao, J., Li, Y., Zaval, L., Johnson E. J., Weber, E. U. Neurons die, not knowledge: Domain knowledge compensates for declining cognitive ability in financial decision-making. 2013. Society of Judgment and Decision Making Annual Meeting, Toronto, Canada.[PDF](/assets/pdf/jdmposter2013.pdf)
