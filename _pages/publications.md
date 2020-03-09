@@ -8,6 +8,8 @@ toc_label: " "
 
 ### Journal articles
 
+**8)** Mazza, G. L., Smyth, H. L., Bissett, P. G, Canning, J. R., Eisenberg, I. W., **Enkavi, A. Z.**, Gonzalez, O., Kim, S. J., Metcalf, S. A., Muniz, F., Pelham III, W. E., Scherer E. A., Valente, M. J., Xie, H., Poldrack, R. A., Marsch, L. A., MacKinnon, D. P. (2020). [Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation](https://www.tandfonline.com/doi/full/10.1080/00223891.2020.1732994). Journal of Personality Assessment, DOI: 10.1080/00223891.2020.1732994.
+
 **7)** **Enkavi, A. Z.**, Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). [Reply to Friedman and Banich: Right measures for the research question.](https://www.pnas.org/content/116/49/24398.short) Proceedings of the National Academy of Sciences, 116(49), 24398-24399.
 
 **6)** Eisenberg, I. W., Bissett, P. G., **Enkavi, A. Z.**, Li, J., MacKinnon, D. P., Marsch, L. A., & Poldrack, R. A. (2019). ["Uncovering the structure of self-regulation through data-driven ontology discovery."](https://www.nature.com/articles/s41467-019-10301-1) Nature communications, 10(1), 2319. [Github](https://github.com/zenkavi/Self_Regulation_Ontology)
