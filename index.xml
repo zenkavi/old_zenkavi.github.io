@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Zeynep Enkavi</title>
+    <link>https://zenkavi.github.io/</link>
+      <atom:link href="https://zenkavi.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Zeynep Enkavi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zenkavi.github.io/media/headshot.jpg</url>
+      <title>A. Zeynep Enkavi</title>
+      <link>https://zenkavi.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Reproducible science</title>
+      <link>https://zenkavi.github.io/project/reproducible-science/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/project/reproducible-science/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Experiment Factory&lt;/strong&gt;
+Experiment Factory is an “an open source framework for the development and deployment of web-based experiments.” We developed this platform to run our large scale multiwave online experiments. It consists of a Python application and a repository of behavioral experiments and surveys coded in javascript using jsPsych (de Leeuw, 2015). As we hoped for it has been used by other researchers for their experiments as well.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reproducible meta-analysis&lt;/strong&gt;
+This is a prospective project in a very early stage that I want to continue working on in the near future. The broad aim is to build tools that would enable researchers to conduct fast and reproducible meta-analyses. Some components I am currently considering include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Standardized data format for meta-analysis search results&lt;/li&gt;
+&lt;li&gt;Browser widget that saves dated search queries and results&lt;/li&gt;
+&lt;li&gt;Online platform to upload published/unpublished datasets&lt;/li&gt;
+&lt;li&gt;Result and keyword extractor from published papers&lt;/li&gt;
+&lt;li&gt;Crowd-sourced tagging system of extracted results&lt;/li&gt;
+&lt;li&gt;Search engine to filter extracted results&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sochat, V. V., Eisenberg, I. W., Enkavi, A. Z., Li, J., Bissett, P. G., &amp;amp; Poldrack, R. A. (2016). The experiment factory standardizing behavioral experiments. Frontiers in psychology, 7, 610.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-regulation</title>
+      <link>https://zenkavi.github.io/project/self-regulation/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/project/self-regulation/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ontological structure of the space&lt;/strong&gt;
+Psychology is rich with related constructs on self-regulation (e.g. impulsivity, self-control, inhibition etc.) and even richer in behavioral tasks and surveys to measure these putative constructs. It does lack, however, a clear understanding of how these constructs and the measures relate to each other. As part of the Science of Behavior Change initiative we addressed this question by running a large battery (35 tasks, 23 surveys) on a large sample (n=552).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Trait measures of self-regulation&lt;/strong&gt;
+Tasked with finding the best ‘behavioral assays’ of self-regulation we examined the stability of all the measures from our large battery of tasks and surveys. We followed up with 150 of our participants who completed our battery and asked them to complete it a second time 2-4 months after their initial completion. Additionally we completed a detailed analysis of the literature on the retest reliability of all our measures for comparability with our dataset. We found that the literature was noisy to begin with and that the survey measures were more reliable than task measures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., &amp;amp; Poldrack, R. A. (2019). Reply to Friedman and Banich: Right measures for the research question. Proceedings of the National Academy of Sciences, 116(49), 24398-24399.&lt;/p&gt;
+&lt;p&gt;Eisenberg, I. W., Bissett, P. G., Enkavi, A. Z., Li, J., MacKinnon, D. P., Marsch, L. A., &amp;amp; Poldrack, R. A. (2019). “Uncovering the structure of self-regulation through data-driven ontology discovery.” Nature communications, 10(1), 2319.&lt;/p&gt;
+&lt;p&gt;Enkavi, A. Z., Eisenberg, I. W., Bissett, P. G., Mazza, G. L., MacKinnon, D. P., Marsch, L. A., &amp;amp; Poldrack, R. A. (2019). Large-scale analysis of test–retest reliabilities of self-regulation measures. Proceedings of the National Academy of Sciences, 116(12), 5472-5477.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Implications of the lacking relationship between cognitive task and self report measures for psychiatry</title>
+      <link>https://zenkavi.github.io/publication/jpa2020/</link>
+      <pubDate>Fri, 26 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/publication/jpa2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correlation Database of 60 Cross-Disciplinary Surveys and Cognitive Tasks Assessing Self-Regulation</title>
+      <link>https://zenkavi.github.io/publication/biopsyc2020/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/publication/biopsyc2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering the structure of self-regulation through data-driven ontology discovery</title>
+      <link>https://zenkavi.github.io/publication/natcom2019/</link>
+      <pubDate>Fri, 24 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/publication/natcom2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large-scale analysis of test–retest reliabilities of self-regulation measures</title>
+      <link>https://zenkavi.github.io/publication/pnas2019/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/publication/pnas2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reply to Friedman and Banich: Right measures for the research question</title>
+      <link>https://zenkavi.github.io/publication/pnas2019_2/</link>
+      <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/publication/pnas2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence for hippocampal dependence of value-based decisions</title>
+      <link>https://zenkavi.github.io/publication/scirep2017/</link>
+      <pubDate>Mon, 18 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/publication/scirep2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying novel technologies and methods to inform the ontology of self-regulation</title>
+      <link>https://zenkavi.github.io/publication/brt2017/</link>
+      <pubDate>Thu, 05 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/publication/brt2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The experiment factory: standardizing behavioral experiments</title>
+      <link>https://zenkavi.github.io/publication/fip2016/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/publication/fip2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sound credit scores and financial decisions despite cognitive aging</title>
+      <link>https://zenkavi.github.io/publication/pnas2015/</link>
+      <pubDate>Tue, 06 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/publication/pnas2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

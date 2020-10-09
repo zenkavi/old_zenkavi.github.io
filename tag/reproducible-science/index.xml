@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reproducible science | A. Zeynep Enkavi</title>
+    <link>https://zenkavi.github.io/tag/reproducible-science/</link>
+      <atom:link href="https://zenkavi.github.io/tag/reproducible-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reproducible science</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 08 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zenkavi.github.io/media/headshot.jpg</url>
+      <title>Reproducible science</title>
+      <link>https://zenkavi.github.io/tag/reproducible-science/</link>
+    </image>
+    
+    <item>
+      <title>Reproducible science</title>
+      <link>https://zenkavi.github.io/project/reproducible-science/</link>
+      <pubDate>Thu, 08 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/project/reproducible-science/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Experiment Factory&lt;/strong&gt;
+Experiment Factory is an “an open source framework for the development and deployment of web-based experiments.” We developed this platform to run our large scale multiwave online experiments. It consists of a Python application and a repository of behavioral experiments and surveys coded in javascript using jsPsych (de Leeuw, 2015). As we hoped for it has been used by other researchers for their experiments as well.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reproducible meta-analysis&lt;/strong&gt;
+This is a prospective project in a very early stage that I want to continue working on in the near future. The broad aim is to build tools that would enable researchers to conduct fast and reproducible meta-analyses. Some components I am currently considering include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Standardized data format for meta-analysis search results&lt;/li&gt;
+&lt;li&gt;Browser widget that saves dated search queries and results&lt;/li&gt;
+&lt;li&gt;Online platform to upload published/unpublished datasets&lt;/li&gt;
+&lt;li&gt;Result and keyword extractor from published papers&lt;/li&gt;
+&lt;li&gt;Crowd-sourced tagging system of extracted results&lt;/li&gt;
+&lt;li&gt;Search engine to filter extracted results&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Sochat, V. V., Eisenberg, I. W., Enkavi, A. Z., Li, J., Bissett, P. G., &amp;amp; Poldrack, R. A. (2016). The experiment factory standardizing behavioral experiments. Frontiers in psychology, 7, 610.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

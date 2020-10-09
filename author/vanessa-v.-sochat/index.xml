@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vanessa V. Sochat | A. Zeynep Enkavi</title>
+    <link>https://zenkavi.github.io/author/vanessa-v.-sochat/</link>
+      <atom:link href="https://zenkavi.github.io/author/vanessa-v.-sochat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vanessa V. Sochat</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 26 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zenkavi.github.io/media/headshot.jpg</url>
+      <title>Vanessa V. Sochat</title>
+      <link>https://zenkavi.github.io/author/vanessa-v.-sochat/</link>
+    </image>
+    
+    <item>
+      <title>The experiment factory: standardizing behavioral experiments</title>
+      <link>https://zenkavi.github.io/publication/fip2016/</link>
+      <pubDate>Tue, 26 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://zenkavi.github.io/publication/fip2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
