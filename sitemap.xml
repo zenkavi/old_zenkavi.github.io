@@ -3,47 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zenkavi.github.io/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zenkavi.github.io/project/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zenkavi.github.io/tag/reproducible-science/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zenkavi.github.io/project/reproducible-science/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zenkavi.github.io/tag/self-control/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zenkavi.github.io/project/self-control/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://zenkavi.github.io/tags/</loc>
-    <lastmod>2020-10-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zenkavi.github.io/publication-type/2/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://zenkavi.github.io/author/a.-zeynep-enkavi/</loc>
+    <lastmod>2020-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zenkavi.github.io/</loc>
     <lastmod>2020-06-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -330,7 +300,31 @@
   </url>
   
   <url>
+    <loc>https://zenkavi.github.io/project/</loc>
+  </url>
+  
+  <url>
     <loc>https://zenkavi.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zenkavi.github.io/tag/reproducible-science/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zenkavi.github.io/project/reproducible-science/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zenkavi.github.io/tag/self-control/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zenkavi.github.io/project/self-control/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zenkavi.github.io/tags/</loc>
   </url>
   
 </urlset>
